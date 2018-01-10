@@ -19,7 +19,7 @@ function johnLennonFacts(facts) {
   return shoutedFacts
 }
 
-function iLoveTheBeatles(){
+function iLoveTheBeatles(n){
   const number=[]
 
   do (number.push("I love the Beatles!"))
